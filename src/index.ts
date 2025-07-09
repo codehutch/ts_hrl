@@ -1,3 +1,3 @@
 import { bob } from "./example/names";
 
-console.log(bob + " 5");
+console.log(bob + " 6");
